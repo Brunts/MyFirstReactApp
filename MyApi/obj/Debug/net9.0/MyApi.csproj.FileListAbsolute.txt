@@ -44,3 +44,4 @@ C:\Users\vallo\REACTTEST\MyApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGe
 C:\Users\vallo\REACTTEST\MyApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\vallo\REACTTEST\MyApi\bin\Debug\net9.0\Swashbuckle.Core.dll
 C:\Users\vallo\REACTTEST\MyApi\bin\Debug\net9.0\WebActivatorEx.dll
+C:\Users\vallo\REACTTEST\MyApi\obj\Debug\net9.0\MyApi.sourcelink.json
